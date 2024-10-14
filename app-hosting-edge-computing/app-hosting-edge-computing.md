@@ -7,6 +7,13 @@ This file contains a curated list of **cloud-agnostic** and **cloud-native** app
 
 ## App Hosting & Edge Computing Platforms List
 
+- **[KubeEdge](https://kubeedge.io/)**: An open-source platform that extends Kubernetes to the edge, enabling seamless management of cloud and edge resources for IoT applications.
+  - **Cloud-Agnostic**: Yes
+  - **Cloud-Native**: Yes
+  - **Open-Source**: Yes
+  - **Self-Hosting**: Yes
+  - **Free Tier**: Yes (open-source)
+
 - **[Fly.io](https://fly.io/)**: Cloud-agnostic edge computing platform for full-stack app deployments.
   - **Cloud-Agnostic**: Yes
   - **Cloud-Native**: Yes
@@ -20,6 +27,7 @@ This file contains a curated list of **cloud-agnostic** and **cloud-native** app
   - **Open-Source**: No
   - **Self-Hosting**: No
   - **Free Tier**: Yes
+
 
 ---
 
