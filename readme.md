@@ -3,7 +3,7 @@
 If you would like your tool or solution to be removed from the repository, please open an issue explaining your reason and providing contact information.
 
 
-# Cloud-Agnostic and Cloud-Native Providers
+# Awesome Cloud Freedom
 
 
 Welcome to the **Cloud-Agnostic and Cloud-Native Providers** repository! This curated list features tools and platforms designed to offer **freedom, flexibility, and cost-efficiency** for users who want to avoid vendor lock-in, leverage open-source technology, or self-host their infrastructure.
